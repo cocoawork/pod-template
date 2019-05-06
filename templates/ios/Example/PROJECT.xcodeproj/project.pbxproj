@@ -86,6 +86,7 @@
 		6003F581195388D10070C39A = {
 			isa = PBXGroup;
 			children = (
+				E13ADA5B22802DBD00F18CFE /* Podspec Metadata */,
 				6003F593195388D20070C39A /* PROJECT */,
 				6003F5B5195388D20070C39A /* Tests */,
 				6003F58C195388D20070C39A /* Frameworks */,
@@ -213,6 +214,13 @@
 				E13ADA5822802B8800F18CFE /* PROJECT-Define.h */,
 			);
 			name = Marco;
+			sourceTree = "<group>";
+		};
+		E13ADA5B22802DBD00F18CFE /* Podspec Metadata */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Podspec Metadata";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
